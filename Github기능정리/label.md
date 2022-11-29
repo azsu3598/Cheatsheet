@@ -1,4 +1,4 @@
-# 개요
+# Label
 - 레이블은 Issue 또는 Pull Request작업에서 카테고리를 분류하는 이름표같은 개념이다.
 - 기본으로 9개의 레이블을 제공한다.
 <img width="598" alt="image" src="https://user-images.githubusercontent.com/101856066/204593243-105a1ddc-9b97-4ddf-ae14-8200ed905fde.png">
