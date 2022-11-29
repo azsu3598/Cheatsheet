@@ -1,10 +1,6 @@
 ## 1. 깃 환경설정
 
-1. 설치
-- 
--
-
-2. 기본설정
+1. 기본설정
 
 - 사용자 설정  
 $ git config --global user.name "User name"  
@@ -25,3 +21,4 @@ $ git config --global --unset <이름>
  
 - 설정 보기  
 $ git config --global --list
+
